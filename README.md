@@ -7,8 +7,8 @@ This library also allows you to build a multiplatform application between webgl 
 
 ## Table of Contents
 
-* [Getting Started](#Getting Started)
-	* [Supported Versions](#Supported Versions)
+* [Getting Started](#Getting-Started)
+	* [Supported Versions](#Supported-Versions)
 	* [Installation](#Installation)
 * [Usage](#Usage)
 	* [Demo](#Demo)
@@ -24,7 +24,7 @@ This project was developped and tested in the 2019.4.x LTS and 2020.3.x LTS edit
 This project was developped and tested for Socket.Io client version [4.x](https://socket.io/docs/v4) but should also work with servers that uses the same protocol [(Protocol Version 5)](https://github.com/socketio/socket.io-protocol).
 
 ### Installation
-Download the `Unity-SocketIO.unitypackage` from the releases page. Drag the package into your project in the Unity Editor. The project should auto import by the Unity Editor. 
+Download the `Unity-SocketIO.unitypackage` from the [releases]() page. Drag the package into your project in the Unity Editor. The project should auto import by the Unity Editor. 
 
 ## Usage
 The Documentation can be found in the [wiki]() (Work in progress)
@@ -35,7 +35,7 @@ When you work on the project to create a WebGl App, switch the platform to stand
 `<script src="https://cdn.socket.io/4.0.0/socket.io.js"></script>`
 to the head of your html document after you build the WebGl app or else it will not work!. No additional actions are needed for a standalone app.
 
-###Demo
+### Demo
 Demo.cs
 ```csharp
 using UnityEngine;
