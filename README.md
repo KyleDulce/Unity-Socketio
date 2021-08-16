@@ -27,7 +27,7 @@ This project was developed and tested for Socket.Io client version [4.x](https:/
 Download the `Unity-SocketIO.unitypackage` from the [releases](https://github.com/KyleDulce/Unity-Socketio/releases/latest) page. Drag the package into your project in the Unity Editor. The project should auto import by the Unity Editor. 
 
 ## Usage
-The Documentation can be found in the [wiki]().
+The Documentation can be found in the [wiki](https://github.com/KyleDulce/Unity-Socketio/wiki/Documentation).
 
 When you work on the project to create a WebGl App, switch the platform to standalone to be able to test the project in the editor. Only switch to WebGl when you start building the project.
 
