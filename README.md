@@ -34,6 +34,7 @@ When you work on the project to create a WebGl App, switch the platform to stand
 **Important Note:** Include 
 `<script src="https://cdn.socket.io/4.0.0/socket.io.js"></script>`
 to the head of your HTML document after you build the WebGl app or else it will not work!. No additional actions are needed for a standalone app.
+You can also make these changes inside a WebGl Template. See [here](https://docs.unity3d.com/Manual/webgl-templates.html) for information.
 
 ### Demo
 Demo.cs
