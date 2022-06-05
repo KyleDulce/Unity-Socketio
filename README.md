@@ -18,7 +18,7 @@ This library also allows you to build a multi platform application between Webgl
 ## Getting Started
 ### Supported Versions
 #### Unity Engine
-This project was developed and tested in the 2019.4.x LTS editor using the Mono back-end and .NET 4.x (but .NET Standard 2.0 also works). Note that 2020.x changes the WebGL Template. See [here](https://github.com/KyleDulce/Unity-Socketio/wiki/Making-SocketIo-Work-in-2020.x) for making it work in 2020.x.
+This project was developed and tested in the 2019.4.x LTS editor using the Mono back-end and .NET 4.x. Note that 2020.x changes the WebGL Template. See [here](https://github.com/KyleDulce/Unity-Socketio/wiki/Making-SocketIo-Work-in-2020.x) for making it work in 2020.x.
 
 #### Socket.Io
 This project was developed and tested for Socket.Io client version [4.x](https://socket.io/docs/v4) but should also work with servers that uses the same protocol [(Protocol Version 5)](https://github.com/socketio/socket.io-protocol).
