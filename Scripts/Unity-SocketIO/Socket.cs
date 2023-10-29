@@ -129,7 +129,7 @@ namespace KyleDulce.SocketIo {
                         value.Remove(callback);
                     }
                 } else {
-                    ActionEvents = new Dictionary<string, List<Action<string>>>();
+                    ActionEvents[ev] = new List<Action<string>>();
                 }           
             return this;
         }
